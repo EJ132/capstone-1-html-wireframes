@@ -7,10 +7,10 @@
 ##Sign Up/In Page## -Will allow the user to sign in/up for the app. The sign up page will be just slightly different (re-enter password, enter email address). Once signed up/in user will be redirected to the Home Page
 
 
-https://ejgonzalez.github.io/capstone-1-html-wireframes/homepage.html
+https://ej132.github.io/capstone-1-html-wireframes/homepage.html
 
-https://ejgonzalez.github.io/capstone-1-html-wireframes/lostpuppers.html
+https://ej132.github.io/capstone-1-html-wireframes/lostpuppers.html
 
-https://ejgonzalez.github.io/capstone-1-html-wireframes/aboutus.html
+https://ej132.github.io/capstone-1-html-wireframes/aboutus.html
 
-https://ejgonzalez.github.io/capstone-1-html-wireframes/signin.html
+https://ej132.github.io/capstone-1-html-wireframes/signin.html
