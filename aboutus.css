@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    justify-content: flex-end;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: grey;
+}
+
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav li {
+    padding: 5px;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+    padding: 50px;
+}
+
+main h2 {
+    font-size: 72px;
+}
+
+main p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
